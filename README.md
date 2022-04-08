@@ -1,14 +1,19 @@
-👋 Hi, I’m @juliafmorgado
+<h2>Hey, I’m <a href="https://juliafmorgado.netlify.app/">Julia Furst Morgado</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"></h2>
 
-👀 I’m interested in Web development and Marketing
+<h3>About Me 🚀</h3>
+🎓 I’m an Open-Source enthusiast & a SWE.<br>
+👨‍💻 I am passionate about Web Dev, AI, Machine Learning & I enjoy learning new things.
 
-🌱 I’m currently learning HTML, CSS, JavaScript and the MERN stack
+<h3>Work 💻</h3>
 
-💞️ I’m looking to collaborate on web dev projects
+🌱 I’m currently working to get better at Web Developement.<br>
+💬 Ask me about anything, I am happy to help.
 
-📫 How to reach me: https://www.linkedin.com/in/juliafurstm/ or https://twitter.com/juliafmorgado :)
+
 
 <!---
 juliafmorgado/juliafmorgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
