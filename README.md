@@ -9,6 +9,49 @@
 
 <h2 align='center'>Projects</h2>
 
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">My Vegetaria Scanner</h2>
+				<div align="center" >  
+					<a href='https://juliafmorgado.github.io/food-checker-app/'>
+						<img src="https://github.com/juliafmorgado/food-checker-app/blob/main/vegetarian-scanner.gif" alt="Vegetarian Scanner" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/juliafmorgado/food-checker-app" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://juliafmorgado.github.io/food-checker-app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - App that tells whether an item is vegetarian or not!</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" >  
+					<a href='https://juliafmorgado.github.io/portfolio/'>
+						<img src="https://github.com/juliafmorgado/portfolio/blob/main/julia-portfolio.gif" alt="Personal Portfolio" height="248px" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/juliafmorgado/portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://juliafmorgado.github.io/portfolio/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        </div>
+	</table>
+</div>
+
 
 <h2 align='center'>Technologies</h2>
 <table>
