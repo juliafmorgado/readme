@@ -13,7 +13,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">My Vegetaria Scanner</h2>
+				<h3 align="center" color="white">VegScan</h2>
 				<div align="center" >  
 					<a href='https://juliafmorgado.github.io/food-checker-app/'>
 						<img src="https://github.com/juliafmorgado/food-checker-app/blob/main/vegetarian-scanner.gif" alt="Vegetarian Scanner" height="100%" />
