@@ -34,7 +34,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
-					<a href='https://juliafmorgado.github.io/portfolio/'>
+					<a href='https://juliafmorgado.netlify.app/'>
 						<img src="https://github.com/juliafmorgado/portfolio/blob/main/julia-portfolio.gif" alt="Personal Portfolio" height="248px" />
 					</a>
 					<br>
@@ -43,7 +43,7 @@
 						<a href="https://github.com/juliafmorgado/portfolio" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://juliafmorgado.github.io/portfolio/" target="_blank">
+						<a href="https://juliafmorgado.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
 						</a>	
 					</p>
