@@ -49,8 +49,7 @@
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
         </div>
-				
-				<tr>
+			<tr>
 			<td width="50%">
 				<h3 align="center" color="white">King's Cup</h2>
 				<div align="center" >  
@@ -87,7 +86,7 @@
 						</a>	
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - Cute dog generator made with an API.</p>
-        </div>
+				</div></td>
 	</table>
 </div>
 
