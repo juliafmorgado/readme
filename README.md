@@ -13,22 +13,22 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">VegScan</h2>
+				<h3 align="center" color="white">Star Treck App & API</h2>
 				<div align="center" >  
-					<a href='https://juliafmorgado.github.io/food-checker-app/'>
-						<img src="https://github.com/juliafmorgado/food-checker-app/blob/main/food-checker.gif" alt="Vegetarian Scanner" height="100%" />
+					<a href='https://juliafmorgado.github.io/star-trek-app/'>
+						<img src="https://github.com/juliafmorgado/star-trek-app/blob/main/startrek.gif" alt="Star Trek App" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/juliafmorgado/food-checker-app" target="_blank">
+						<a href="https://github.com/juliafmorgado/star-trek-app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://juliafmorgado.github.io/food-checker-app/" target="_blank">
+						<a href="https://juliafmorgado.github.io/star-trek-app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - App that tells whether an item is vegetarian or not!</p>
+					<p><strong>Node.js, Express, JavaScript, CSS3, HTML5</strong> - App that gives you facts about Star Trek's Aliens!</p>
 				</div>
 			</td>
 			<td width="50%">
