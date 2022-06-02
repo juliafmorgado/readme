@@ -103,7 +103,7 @@
                         
    <td valign='top' width='33.33%>
       <h3 align='center'>Backend<h3>
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='20%'>   
+        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/NodeJS.svg' width='20%'>   
         <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Express.svg' width='20%'>   
         <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/MongoDB.svg' width='20%'>   
         <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/OOP.svg' width='20%'>   
