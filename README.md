@@ -70,22 +70,22 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Dog Generator</h2>
+				<h3 align="center" color="white">To Do App</h2>
 				<div align="center" >  
-					<a href='https://github.com/juliafmorgado/dog-generator'>
-						<img src="https://github.com/juliafmorgado/dog-generator/blob/main/doggo-generator.gif" alt="Dog generator" height="248px" />
+					<a href='https://to-do-mvp.herokuapp.com/'>
+						<img src="https://github.com/juliafmorgado/todo-app/blob/main/app.gif" alt="To Do App" height="248px" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/juliafmorgado/dog-generator" target="_blank">
+						<a href="https://to-do-mvp.herokuapp.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://juliafmorgado.github.io/dog-generator/" target="_blank">
+						<a href="https://github.com/juliafmorgado/todo-app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Cute dog generator made with an API.</p>
+					 <p><strong>Node.js, Express, MongoDB</strong> - To Do App</p>
 				</div></td>
 	</table>
 </div>
