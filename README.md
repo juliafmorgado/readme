@@ -35,7 +35,7 @@
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
 					<a href='https://juliafmorgado.netlify.app/'>
-						<img src="https://github.com/juliafmorgado/portfolio/blob/main/julia-portfolio.gif" alt="Personal Portfolio" height="248px" />
+						<img src="https://github.com/juliafmorgado/portfolio/blob/main/img/portfolio.gif" alt="Personal Portfolio" height="248px" />
 					</a>
 					<br>
 					<br>
