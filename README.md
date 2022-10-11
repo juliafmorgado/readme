@@ -29,7 +29,9 @@ Below find some GitHub repos that I reference a lot
 
 
 ## Collaboration Requests
-I love speaking and connecting with folks!  If you want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc. contact me [here](https://juliafmorgado.com/#contact). Please include as a much context as possible to understand the request, avoiding back-and-fourth. You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob/main/speaker-rider.md), my [previous talks here](#) and my [current abstracts here](https://github.com/juliafmorgado/talks).
+I love speaking and connecting with folks!  If you want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc. contact me [here](https://juliafmorgado.com/#contact). Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
+
+You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob/main/speaker-rider.md), my [previous talks here](#) and my [current abstracts here](https://github.com/juliafmorgado/talks).
 
 ## Find me on the internet
 - [My website & portfolio](https://juliafmorgado.com)
