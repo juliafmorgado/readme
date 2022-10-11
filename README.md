@@ -1,12 +1,11 @@
 <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/github-banner.png' width='100%'>
 
-<p align='center'>A creative and detail-oriented, software engineer with a deep interest in AI.</p>
+<p align='center'>I'm a technologist, a DevOps fanatic, and speaker. Check my <a href='https://juliafmorgado.com' target="_blank">website</a> to learn more about me. </p>
+<br> 
 
-<p align='center'>I'm passionate about innovative technologies and how to build them. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.</p>
+<p align='center'>Everything I learn on my journey is shared in <a href='https://medium.com/@juliafmorgado'>blog</a> posts, <a href='https://www.youtube.com/juliafmorgado'>Youtube</a> videos, talks, workshops, live streams, public issues and social media. I'm one of the organizers of <a href='https://www.newyorkcodeandcoffee.com/'>NY Code and Coffee</a>, a social tech meetup to network and learn together.</p>
 
-
-<p align='center'>Please see my <a href='https://juliafmorgado.netlify.app/' target="_blank">website</a> for more information!</p>
-
+<br>
 <h2 align='center'>Projects</h2>
 
 <div align="center">
