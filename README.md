@@ -13,7 +13,7 @@ Everything I learn on my journey is shared in
 workshops, live streams, public issues and social media. I'm one of the
 organizers of [NY Code and
 Coffee](https://www.newyorkcodeandcoffee.com/), a social tech meetup to
-network and learn together.
+network and learn together, a AWS community builder, a [Women Techmakers](https://developers.google.com/womentechmakers) Ambassador and a [GirlCode](https://www.girl-code.co.uk/girlcodeambassadors/julia-furst-morgado) Ambassador.
 
   
 
@@ -25,13 +25,13 @@ Below find some GitHub repos that I reference a lot
 | Repo | Description |
 | ------------------------------------------------------ | ---------------------------------- |
 | [My Website](https://github.com/juliafmorgado/portfolio)       | The source code for my website [juliafmorgado.com](https://juliafmorgado.com) |
-| [Planner](https://github.com/juliafmorgado/JFM-Planner)         | Documentation of personal growth plan. |
+| [Talks](https://github.com/juliafmorgado/talks)         | Repo with all the talks I've given of was a guest of |
 
 
 ## Collaboration Requests
 I love speaking and connecting with folks!  If you want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc. contact me [here](https://juliafmorgado.com/#contact). Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
 
-You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob/main/speaker-rider.md), my [previous talks here](https://juliafmorgado.com/speaking) and my [current abstracts here](https://github.com/juliafmorgado/talks).
+You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob/main/speaker-rider.md), my [previous talks here](https://github.com/juliafmorgado/talks) and my [current abstracts here](https://github.com/juliafmorgado/talks).
 
 ## Find me on the internet
 - [My website & portfolio](https://juliafmorgado.com)
@@ -40,7 +40,6 @@ You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob
 - [Youtube](https://www.youtube.com/juliafmorgado)
 - [Instagram](https://www.instagram.com/juliafmorgado/)
 - [Twitch](https://www.twitch.tv/juliafmorgado)
-- [Polywork](https://www.polywork.com/juliafmorgado)
 - [Blog](https://medium.com/@juliafmorgado)
 
 
