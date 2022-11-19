@@ -26,6 +26,7 @@ Below find some GitHub repos that I reference a lot
 | ------------------------------------------------------ | ---------------------------------- |
 | [My Website](https://github.com/juliafmorgado/portfolio)       | The source code for my website [juliafmorgado.com](https://juliafmorgado.com) |
 | [Talks](https://github.com/juliafmorgado/talks)         | Repo with all the talks I've given of was a guest of |
+| [KubeCof](https://github.com/juliafmorgado/KubeCof)         | Your Kubernetes Coffee Chat ☸️☕️ |
 
 
 ## Collaboration Requests
