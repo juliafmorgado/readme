@@ -24,13 +24,13 @@ Below find some GitHub repos that I reference a lot
 
 | Repo | Description |
 | ------------------------------------------------------ | ---------------------------------- |
-| [My Website](https://github.com/juliafmorgado/portfolio)       | The source code for my website [juliafmorgado.com](https://juliafmorgado.com) |
+| [My Website](https://github.com/juliafmorgado/hugo)       | The source code for my website [juliafmorgado.com](https://juliafmorgado.com) |
 | [Talks](https://github.com/juliafmorgado/talks)         | Repo with all the talks I've given of was a guest of |
-| [KubeCof](https://github.com/juliafmorgado/KubeCof)         | Your Kubernetes Coffee Chat ☸️☕️ |
+| [10DaysToAWS](https://github.com/juliafmorgado/10DaysToAWS)         | My AWS learning documentation |
 
 
 ## Collaboration Requests
-I love speaking and connecting with folks!  If you want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc. contact me [here](https://juliafmorgado.com/#contact). Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
+I love speaking and connecting with folks!  If you want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc. contact me on [Twitter] (https://twitter.com/juliafmorgado). Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
 
 You can find my [speaker rider here](https://github.com/juliafmorgado/talks/blob/main/speaker-rider.md), my [previous talks here](https://github.com/juliafmorgado/talks) and my [current abstracts here](https://github.com/juliafmorgado/talks).
 
