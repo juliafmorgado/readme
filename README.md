@@ -13,7 +13,7 @@ Everything I learn on my journey is shared in
 workshops, live streams, public issues and social media. I'm one of the
 organizers of [NY Code and
 Coffee](https://www.newyorkcodeandcoffee.com/), a social tech meetup to
-network and learn together, a AWS community builder, a [Women Techmakers](https://developers.google.com/womentechmakers) Ambassador and a [GirlCode](https://www.girl-code.co.uk/girlcodeambassadors/julia-furst-morgado) Ambassador.
+network and learn together, a [CNCF](https://www.cncf.io/people/ambassadors/) Ambassador, a AWS community builder, a [Women Techmakers](https://developers.google.com/womentechmakers) Ambassador and a [GirlCode](https://www.girl-code.co.uk/girlcodeambassadors/julia-furst-morgado) Ambassador.
 
   
 
